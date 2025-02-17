@@ -1,0 +1,8 @@
+zendesk-ticket-analysis/
+├── data/            # Store sample ticket data (CSV or JSON)
+├── notebooks/       # Jupyter Notebooks for analysis
+├── scripts/         # Python scripts for automation
+├── reports/         # Generated reports/visualizations
+├── README.md        # Project description
+├── requirements.txt # Dependencies (Pandas, Matplotlib, etc.)
+└── .gitignore       # Ignore unnecessary files
