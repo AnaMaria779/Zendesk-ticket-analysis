@@ -1,5 +1,5 @@
 zendesk-ticket-analysis/
-├── data/            # Store sample ticket data (CSV or JSON)
+├── data/            # Store sample ticket data (CSV)
 ├── notebooks/       # Jupyter Notebooks for analysis
 ├── scripts/         # Python scripts for automation
 ├── reports/         # Generated reports/visualizations
